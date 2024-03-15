@@ -1,6 +1,3 @@
-"""
-四旋翼轨迹跟踪 8字形轨迹 - LQR - 加速度控制
-"""
 import airsim
 import numpy as np
 import math
